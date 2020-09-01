@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: YouthMrg                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: My Blog  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -22,7 +22,7 @@ url: 'https://youthmrg.github.io'
 
 author: Tao Guo                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/youthmrg.jpg   # support internet resources
 
 github:
   username: youthmrg             # change to your github username
@@ -31,7 +31,7 @@ twitter:
   username: youthmrg            # change to your twitter username
 
 social:
-  name: Tao Guo                  # it will shows as the copyright owner in Footer
+  name: youthmrg                  # it will shows as the copyright owner in Footer
   email: youthmrg@163.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
